@@ -10,6 +10,7 @@ In this project, Power BI is used to analyze box office data for a set of movies
 
 ## 📁 Project Structure
 
+```
 Box Office Analysis/
 ├── box-office-analysis.pbix # Power BI dashboard
 ├── data/
@@ -18,7 +19,7 @@ Box Office Analysis/
 │ ├── dashboard-overview.png # Main dashboard preview
 │ └── top-movies-chart.png # Chart visual (optional)
 ├── README.md
-
+```
 
 ## 🖼️ Dashboard Preview
 
